@@ -1,0 +1,240 @@
+body {
+    width: 1285px;
+    margin: auto;
+    margin-top: 3%;
+    height: 3000px;
+}
+
+header {
+    width: 95%;
+}
+
+.slyder-all {
+    width: 100%;
+    float: left;
+    height: 350px;
+}
+
+.slyder-all img {
+    width: 100%;
+    height: 435px;
+}
+
+.question {
+    padding-top: 40%;
+    padding-bottom: 4%;
+}
+
+.question h1 {
+    text-align: center;
+    color: #FFFFFF;
+    background: #333333;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+    color: #FFFFFF;
+    background: #333333;
+    
+    width: 30%;
+    margin: auto;
+    border-radius: 20px;
+    padding: 14px 0px;
+    padding-bottom: 19px;
+}
+
+
+
+
+
+
+
+#img-size img {
+    height: 150px;
+}
+
+#header-src {
+    height: 31px;
+    width: 23%;
+    padding-left: 12px;
+    margin-top: 22px;
+    margin-left: 11%;
+    border-radius: 12px;
+    padding: 16px;
+    color: #070707;
+    background: cornsilk;
+    box-shadow: 0px 0px 7px 10px #4F21D8;
+
+}
+
+#header-src:hover {
+    box-shadow: 0px 0px 7px 10px #0DFF29;
+}
+
+.uk-link-toggle:focus .uk-link,
+.uk-link-toggle:hover .uk-link,
+.uk-link:hover,
+a:hover {
+    color: #0f6ecd;
+    text-decoration: none;
+    text-shadow: 2px 2px 0px #FFFFFF, 5px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
+.accordion-all {
+    width: 100%;
+    margin: auto;
+    background: black;
+    color: white;
+}
+
+.accordion-all {
+    border-radius: 10px;
+    padding-right: 35px;
+    margin-top: -2%;
+}
+
+
+#accordion-all-edit a {
+    color: aqua;
+    padding-top: 2%;
+    padding-left: 2%;
+}
+
+#accordion-all-edit p {
+    width: 90%;
+    text-align: justify;
+    margin: auto;
+}
+
+#accordion-all-edit-b a {
+    color: aqua;
+    padding-top: 2%;
+    padding-left: 2%;
+}
+
+#accordion-all-edit-b p {
+    width: 90%;
+    text-align: justify;
+    margin: auto;
+}
+
+#accordion-all-edit-c a {
+    color: aqua;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 3%;
+}
+
+#accordion-all-edit-c p {
+    width: 90%;
+    text-align: justify;
+    margin: auto;
+}
+
+
+.gallery-all frame {
+    float: left;
+}
+
+
+.scrollspy-all {
+    background: black;
+    color: aliceblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.gallery-all {
+    padding-bottom: 25px;
+}
+
+.gallery-all h1 {
+    text-align: center;
+    padding-bottom: 1%;
+    padding-top: 3%;
+    color: #000000;
+    background: #FFFFFF;
+    text-shadow: 0 1px #808d93, -1px 0 #cdd2d5, -1px 2px #808d93, -2px 1px #cdd2d5, -2px 3px #808d93, -3px 2px #cdd2d5, -3px 4px #808d93, -4px 3px #cdd2d5, -4px 5px #808d93, -5px 4px #cdd2d5, -5px 6px #808d93, -6px 5px #cdd2d5, -6px 7px #808d93, -7px 6px #cdd2d5, -7px 8px #808d93, -8px 7px #cdd2d5;
+}
+
+
+
+
+
+
+
+.progress-all {
+    width: 93%;
+    margin-top: 55%;
+    height: 385px;
+    box-shadow: 0px 0px 0px 8px #000000, 0px 0px 0px 16px #4B4C4B, 0px 0px 0px 24px #828482, 0px 0px 0px 31px #B2B5B2, 0px 0px 0px 39px #DADDDA, 0px 0px 50px 5px #000000;
+    margin-left: 42px;
+    background: #10eb17;
+}
+
+.progress-all h2 {
+    text-align: center;
+    padding-top: 14px;
+
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+}
+
+.progress {
+    height: 30px;
+    margin-top: 15px;
+}
+
+.progress h3 {
+    color: green;
+    padding-right: 10px;
+    margin: 3px 4px;
+    margin-top: -2px;
+}
+
+
+.progress-all-color {
+    width: 96%;
+    height: 200px;
+    padding-top: 25px;
+    margin: auto;
+}
+
+
+
+
+
+
+
+.footer {
+    width: 95%;
+    height: 200px;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 6%;
+}
+
+.footer-left {
+    width: 45%;
+    height: 200px;
+    float: left;
+    text-align: center;
+    border-radius: 70px;
+    background: navy;
+    margin-left: 10px;
+    
+box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 0px 0px 28px 13px rgba(0,0,0,0.89);
+}
+
+.footer-left h2 ,h4{
+    padding-top: 15px;
+    padding-left: 15px;
+color: #FFFFFF;
+
+text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+}
+
+
+
+.footer-right {
+    width: 45%;
+    height: 200px;
+    float: right;
+}
